@@ -1,8 +1,8 @@
 
 # Camelia Ciuca
+[🌐 Visit My Portfolio](https://cameloasa.github.io/IT-Portofolio/)
 
 **Junior IT Professional | Software Testing | Web Development | Cloud**
-https://cameloasa.github.io/IT-Portofolio/
 
 ## Professional Profile
 
@@ -46,5 +46,4 @@ education, and previous professional experience.
 
 ## Contact
 
-- [GitHub](https://github.com/cameloasa-dev)
 - [LinkedIn](https://www.linkedin.com/in/camelia-ciuca-217b242b/)
