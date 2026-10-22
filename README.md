@@ -9,14 +9,14 @@
 A short introduction to my technical background,
 education, and previous professional experience.
 
-## Technical Skills
+## 🛠 Technical Skills
 
 - **Programming:** Java, JavaScript, TypeScript, Python, SQL
 - **Testing:** pytest, Playwright, Gherkin, Postman
 - **Web Development:** React, HTML, CSS, REST APIs
 - **Cloud & DevOps:** AWS, Docker, Git, GitHub Actions
 
-## Projects
+## 📔 Projects
 
 ### Bortakväll Webshop
 
@@ -24,7 +24,7 @@ education, and previous professional experience.
 - [GitHub Repository](https://github.com/cameloasa-dev/bortakvall-ts)
 - [Live Demo](https://stellar-shortbread-51457a.netlify.app/)
 
-## IT Education
+## 🎓 IT Education
 
 - Cloud Development — Handelsakademin
 - Software Testing & Test Automation — Handelsakademin
@@ -32,7 +32,7 @@ education, and previous professional experience.
 - TypeScript — Medieinstitutet
 - Web API with .NET — Medieinstitutet
 
-## Previous Professional Experience
+## 💼 Previous Professional Experience
 
 - Mathematics Teacher / Teaching Assistant
 - Administration and Sales Management
@@ -44,6 +44,6 @@ education, and previous professional experience.
 - Swedish — Fluent
 - English — Fluent
 
-## Contact
+## 📩 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/camelia-ciuca-217b242b/)
